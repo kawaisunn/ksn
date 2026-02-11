@@ -1,2 +1,2 @@
 # ksn
-kawaisunn sudio lab interface
+kawaisunn studio lab interface
